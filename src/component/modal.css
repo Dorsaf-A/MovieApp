@@ -1,0 +1,10 @@
+input{display: flex;
+    justify-content: stretch;
+    width: 90%;
+    height: 40px;
+    margin: 0 50px;
+}
+
+p{
+    text-align: center;
+}
